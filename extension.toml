@@ -1,0 +1,7 @@
+id = "neofusion-theme"
+name = "Neofusion"
+version = "0.0.1"
+schema_version = 1
+authors = ["Freddie Haddad"]
+description = "A dark colorscheme inspired by the Neofusion palette — deep ocean blues with warm accents"
+repository = "https://github.com/freddiehaddad/neofusion.zed"
