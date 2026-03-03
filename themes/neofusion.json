@@ -17,8 +17,8 @@
           "#22536fff"
         ],
 
-        "border": "#06364bff",
-        "border.variant": "#052839ff",
+        "border": "#06101eff",
+        "border.variant": "#06101eff",
         "border.focused": "#08435eff",
         "border.selected": "#08435eff",
         "border.transparent": "#00000000",
@@ -65,12 +65,12 @@
         "search.match_background": "#35b5ff66",
         "search.active_match_background": "#fd5e3a66",
 
-        "panel.background": "#031b26ff",
+        "panel.background": "#06101eff",
         "panel.focused_border": "#35b5ffff",
         "panel.indent_guide": "#052839ff",
         "panel.indent_guide_active": "#06364bff",
         "pane.focused_border": null,
-        "pane_group.border": "#06364bff",
+        "pane_group.border": "#06101eff",
 
         "scrollbar.thumb.background": "#22536f4c",
         "scrollbar.thumb.hover_background": "#22536fcc",
